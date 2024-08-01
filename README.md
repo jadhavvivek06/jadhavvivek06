@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, Cloud Engineer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Vivek, Cloud Engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m 2X AWS , 1X AZURE , 1X Terraform Certified  
